@@ -1,6 +1,6 @@
 {
   "name": "zoho",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Node.js client library for Zoho",
   "main": "./lib/index.js",
   "directories": {
